@@ -1,0 +1,62 @@
+{
+    "company1": {
+      "id": 1,
+      "companyName": "TechCo",
+      "employee": {
+        "employee1": {
+          "name": "Alice Johnson",
+          "position": "Lead Developer"
+        },
+        "employee2": {
+          "name": "Bob Smith",
+          "position": "Designer"
+        },
+        "employee3": {
+          "name": "Eve Davis",
+          "position": "Software Engineer"
+        },
+        "employee4": {
+          "name": "Charlie Brown",
+          "position": "Project Manager"
+        },
+        "employee5": {
+          "name": "Grace Lee",
+          "position": "Business Analyst"
+        }
+      },
+      "location": "United States"
+    },
+
+  
+    "company2": {
+      "id": 2,
+      "companyName": "DataTech",
+      "employee": {
+        "employee1": {
+          "name": "John Smith",
+          "position": "Data Scientist"
+        },
+        "employee2": {
+          "name": "Sarah Johnson",
+          "position": "Machine Learning Engineer"
+        },
+        "employee3": {
+          "name": "Michael Davis",
+          "position": "Data Analyst"
+        },
+        "employee4": {
+          "name": "Jennifer Brown",
+          "position": "Researcher"
+        },
+        "employee5": {
+          "name": "Robert Lee",
+          "position": "Data Engineer"
+        }
+      },
+      "location": "Europe"
+    }
+
+  
+  }
+
+  
